@@ -1,0 +1,17 @@
+body{
+    background-color: darkslategrey;
+    color:#000;
+}
+
+table{
+    text-align: center;
+}
+
+.lista_de_usuarios{
+    text-align: center;
+    color:#fff;
+}
+
+th{
+    color:#fff;
+}
